@@ -15,7 +15,7 @@
   align-items: center;
 }
 .logo {
-  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
 }
 .list {
   display: flex;
@@ -38,6 +38,7 @@
   align-items: center;
   background-color: #3cdbc0;
 }
+
 .title {
   font-size: 30px;
   text-align: center;
@@ -57,7 +58,6 @@
     padding-left: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin: 0px;
   }
   .list {
     margin: 20px;

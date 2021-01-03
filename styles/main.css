@@ -28,6 +28,7 @@
   color: #4a4a4a;
   text-decoration: none;
   padding: 10px;
+  text-transform: uppercase;
 }
 
 .main {
@@ -47,6 +48,7 @@
 .item {
   display: block;
   text-align: center;
+  text-transform: capitalize;
 }
 
 @media all and (min-width: 768px) {

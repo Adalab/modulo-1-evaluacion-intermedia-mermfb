@@ -31,7 +31,7 @@
 }
 
 .main {
-  padding: 113.2px;
+  margin-top: 113.2px;
   height: 100vh;
   display: flex;
   justify-content: center;
